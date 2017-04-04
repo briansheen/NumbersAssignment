@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Scan {
+public class Scan2 {
     public static void main(String args[]) {
         Scanner s = null;
         Double operand1 = null;
